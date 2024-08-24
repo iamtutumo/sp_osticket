@@ -1,6 +1,0 @@
-[submodule "osTicket"]
-	path = osTicket
-	url = git@github.com:osTicket/osTicket.git
-[submodule "osTicket-plugins"]
-	path = osTicket-plugins
-	url = git@github.com:osTicket/osTicket-plugins.git
